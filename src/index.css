@@ -80,6 +80,20 @@
 .divdescription{
   padding: 10px;
 }
-.divbutton{
-
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: rgb(87, 87, 87);
+}
+.detail-container{
+  padding: 50px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.imgdetail{
+  max-width: 250px;
+  max-height: 215px;
+  margin-right: 20px;
 }

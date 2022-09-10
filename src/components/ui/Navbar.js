@@ -13,7 +13,7 @@ export const Navbar = () => {
         </div>
         <div className='navbarbtn'>
           <Link to="/order">
-            <button className='btnnav'>Order</button>
+            <button className='btnnav'>Orders</button>
           </Link>
         </div>
       </div>
